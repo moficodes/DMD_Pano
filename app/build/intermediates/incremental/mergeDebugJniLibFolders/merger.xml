@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/mofi/Documents/android/DMD_Pano/app/src/main/jniLibs"><file name="armeabi/libcorelite.so" path="/Users/mofi/Documents/android/DMD_Pano/app/src/main/jniLibs/armeabi/libcorelite.so"/><file name="armeabi-v7a/libcorelite.so" path="/Users/mofi/Documents/android/DMD_Pano/app/src/main/jniLibs/armeabi-v7a/libcorelite.so"/></source></dataSet><dataSet config="debug"><source path="/Users/mofi/Documents/android/DMD_Pano/app/src/debug/jniLibs"/></dataSet></merger>

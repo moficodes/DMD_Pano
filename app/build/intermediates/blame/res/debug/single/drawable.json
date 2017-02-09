@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/mofi/Documents/android/DMD_Pano/app/build/intermediates/res/merged/debug/drawable/popup.9.png",
+        "source": "/Users/mofi/Documents/android/DMD_Pano/app/src/main/res/drawable/popup.9.png"
+    },
+    {
+        "merged": "/Users/mofi/Documents/android/DMD_Pano/app/build/intermediates/res/merged/debug/drawable/action_item_selected.9.png",
+        "source": "/Users/mofi/Documents/android/DMD_Pano/app/src/main/res/drawable/action_item_selected.9.png"
+    },
+    {
+        "merged": "/Users/mofi/Documents/android/DMD_Pano/app/build/intermediates/res/merged/debug/drawable/action_item_btn.xml",
+        "source": "/Users/mofi/Documents/android/DMD_Pano/app/src/main/res/drawable/action_item_btn.xml"
+    },
+    {
+        "merged": "/Users/mofi/Documents/android/DMD_Pano/app/build/intermediates/res/merged/debug/drawable/arrow_up.png",
+        "source": "/Users/mofi/Documents/android/DMD_Pano/app/src/main/res/drawable/arrow_up.png"
+    },
+    {
+        "merged": "/Users/mofi/Documents/android/DMD_Pano/app/build/intermediates/res/merged/debug/drawable/arrow_down.png",
+        "source": "/Users/mofi/Documents/android/DMD_Pano/app/src/main/res/drawable/arrow_down.png"
+    }
+]

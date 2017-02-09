@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mofi/Documents/android/DMD_Pano/app/build/intermediates/res/merged/debug/layout/action_item_vertical.xml",
+        "source": "/Users/mofi/Documents/android/DMD_Pano/app/src/main/res/layout/action_item_vertical.xml"
+    },
+    {
+        "merged": "/Users/mofi/Documents/android/DMD_Pano/app/build/intermediates/res/merged/debug/layout/test_main.xml",
+        "source": "/Users/mofi/Documents/android/DMD_Pano/app/src/main/res/layout/test_main.xml"
+    },
+    {
+        "merged": "/Users/mofi/Documents/android/DMD_Pano/app/build/intermediates/res/merged/debug/layout/popup_vertical.xml",
+        "source": "/Users/mofi/Documents/android/DMD_Pano/app/src/main/res/layout/popup_vertical.xml"
+    }
+]

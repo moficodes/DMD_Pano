@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/mofi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/mofi/Documents/android/DMD_Pano/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_55fbbd903b923c1a41cf727e17c4560ede1c5fa6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mofi/Documents/android/DMD_Pano/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1624415cc0c71bb7339000d12f3e8780c2635920">
+        <dex dex="/Users/mofi/Documents/android/DMD_Pano/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4b4823dddf8b6e7f887edd431d99baac53df3094/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mofi/Documents/android/DMD_Pano/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d0ec7cd776c283c4747536c8ddb8d96c6f294f0d">
+        <dex dex="/Users/mofi/Documents/android/DMD_Pano/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_24f4c5b951ace3ca6d8b6991d5681c6b7bb87e45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/mofi/Documents/android/DMD_Pano/app/libs/dmd_pano_library_lite.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8494f8b57b7594ffa2e3e54c6dc4477625c99f9">
+        <dex dex="/Users/mofi/Documents/android/DMD_Pano/app/build/intermediates/transforms/dex/debug/folders/1000/2/dmd_pano_library_lite_d8809551ae226d8ea06c70ef4dfc189fcfba4b42/classes.dex" />
+    </item>
+
+</items>

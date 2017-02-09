@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/Users/mofi/Documents/android/DMD_Pano/app/build/intermediates/res/merged/debug/drawable-mdpi/flash.png",
+        "source": "/Users/mofi/Documents/android/DMD_Pano/app/src/main/res/drawable-mdpi/flash.png"
+    },
+    {
+        "merged": "/Users/mofi/Documents/android/DMD_Pano/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menuselect_wb_daylight.png",
+        "source": "/Users/mofi/Documents/android/DMD_Pano/app/src/main/res/drawable-mdpi/ic_menuselect_wb_daylight.png"
+    },
+    {
+        "merged": "/Users/mofi/Documents/android/DMD_Pano/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menuselect_wb_fluorescent.png",
+        "source": "/Users/mofi/Documents/android/DMD_Pano/app/src/main/res/drawable-mdpi/ic_menuselect_wb_fluorescent.png"
+    },
+    {
+        "merged": "/Users/mofi/Documents/android/DMD_Pano/app/build/intermediates/res/merged/debug/drawable-mdpi/wb_incandescent2.png",
+        "source": "/Users/mofi/Documents/android/DMD_Pano/app/src/main/res/drawable-mdpi/wb_incandescent2.png"
+    },
+    {
+        "merged": "/Users/mofi/Documents/android/DMD_Pano/app/build/intermediates/res/merged/debug/drawable-mdpi/wb_auto2.png",
+        "source": "/Users/mofi/Documents/android/DMD_Pano/app/src/main/res/drawable-mdpi/wb_auto2.png"
+    },
+    {
+        "merged": "/Users/mofi/Documents/android/DMD_Pano/app/build/intermediates/res/merged/debug/drawable-mdpi/wb_locked2.png",
+        "source": "/Users/mofi/Documents/android/DMD_Pano/app/src/main/res/drawable-mdpi/wb_locked2.png"
+    },
+    {
+        "merged": "/Users/mofi/Documents/android/DMD_Pano/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menuselect_wb_incandescent.png",
+        "source": "/Users/mofi/Documents/android/DMD_Pano/app/src/main/res/drawable-mdpi/ic_menuselect_wb_incandescent.png"
+    },
+    {
+        "merged": "/Users/mofi/Documents/android/DMD_Pano/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menuselect_wb_cloudy.png",
+        "source": "/Users/mofi/Documents/android/DMD_Pano/app/src/main/res/drawable-mdpi/ic_menuselect_wb_cloudy.png"
+    },
+    {
+        "merged": "/Users/mofi/Documents/android/DMD_Pano/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menuselect_wb_locked.png",
+        "source": "/Users/mofi/Documents/android/DMD_Pano/app/src/main/res/drawable-mdpi/ic_menuselect_wb_locked.png"
+    },
+    {
+        "merged": "/Users/mofi/Documents/android/DMD_Pano/app/build/intermediates/res/merged/debug/drawable-mdpi/exp_icon.png",
+        "source": "/Users/mofi/Documents/android/DMD_Pano/app/src/main/res/drawable-mdpi/exp_icon.png"
+    },
+    {
+        "merged": "/Users/mofi/Documents/android/DMD_Pano/app/build/intermediates/res/merged/debug/drawable-mdpi/wb_cloudy2.png",
+        "source": "/Users/mofi/Documents/android/DMD_Pano/app/src/main/res/drawable-mdpi/wb_cloudy2.png"
+    },
+    {
+        "merged": "/Users/mofi/Documents/android/DMD_Pano/app/build/intermediates/res/merged/debug/drawable-mdpi/icon.png",
+        "source": "/Users/mofi/Documents/android/DMD_Pano/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/mofi/Documents/android/DMD_Pano/app/build/intermediates/res/merged/debug/drawable-mdpi/wb_fluorescent2.png",
+        "source": "/Users/mofi/Documents/android/DMD_Pano/app/src/main/res/drawable-mdpi/wb_fluorescent2.png"
+    },
+    {
+        "merged": "/Users/mofi/Documents/android/DMD_Pano/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_menuselect_wb_auto.png",
+        "source": "/Users/mofi/Documents/android/DMD_Pano/app/src/main/res/drawable-mdpi/ic_menuselect_wb_auto.png"
+    },
+    {
+        "merged": "/Users/mofi/Documents/android/DMD_Pano/app/build/intermediates/res/merged/debug/drawable-mdpi/wb_daylight2.png",
+        "source": "/Users/mofi/Documents/android/DMD_Pano/app/src/main/res/drawable-mdpi/wb_daylight2.png"
+    }
+]
